@@ -1,0 +1,32 @@
+body {
+    background-color: #083D77;
+}
+
+p {
+    height: 30px;
+    width: 100px;
+    padding: 15px;
+    margin: 10px 15px 20px 25px;
+    background-color: #944654;
+    color: #F78764;
+}
+
+h1 {
+    font-size: 12pt;
+    border: 10px solid purple;
+}
+
+h1, h2, h4 {
+    background-color: #944654;
+    border: 3px solid;
+    color: #F78764;
+
+}
+span {
+    color: #F78764;
+}
+table, th, td {
+    border:1px solid black;
+    color: #F78764;
+    
+  }
